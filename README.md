@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# 🔊 Voice-Controlled Room
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive, voice-activated web application that lets users control virtual appliances in a smart room. With simple voice commands, you can turn **ON/OFF** devices like the AC, lamp, fridge, disco light, and power switch.
 
-## Available Scripts
+### 🌐 Live Demo
+👉 [Try it now](https://voice-controlled-room.vercel.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🎯 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 🗣️ Control appliances using your voice
+- 💡 Toggle AC, Lamp, Fridge, Disco Light, and Power Switch
+- 🎨 Smooth UI animations for real-time feedback
+- ⚡ Built with React and the Web Speech API
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React**
+- **JavaScript**
+- **HTML/CSS**
+- **Web Speech API**
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1. Clone the repo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/your-username/voice-controlled-room.git
+cd voice-controlled-room
 
-### `npm run eject`
+🗣️ Voice Commands
+Here are some voice commands you can try:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Appliance	Commands
+Lamp:	Switch lamp on, Switch lamp off
+AC:	Open AC, Start AC, Close AC, AC off
+Fridge:	Open fridge, Close fridge
+Disco: Light	Disco light on, Disco light off
+Power:	Power on, Power off
+📝 Tip: Speak clearly and wait for the app to respond before saying the next command.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
