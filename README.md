@@ -25,11 +25,7 @@ An interactive, voice-activated web application that lets users control virtual 
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-
-```bash
 git clone https://github.com/your-username/voice-controlled-room.git
 cd voice-controlled-room
 
